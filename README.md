@@ -7,7 +7,8 @@
 
 ### 🔧 Tech Stack
 `C#` `.NET` `C++` `Rust` `Python` `JavaScript` `WebAssembly` 
-"You name it I'll learn it. I always do my work in new programming languages when I don't know what isn't possible"
+
+"You name it I'll learn it. I always do my bestwork in new programming languages when I don't know what isn't possible"
 
 ### 📊 Current Focus
 - High-performance PDF rendering at scale
